@@ -28,8 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
+| [0994-rotting-oranges](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
