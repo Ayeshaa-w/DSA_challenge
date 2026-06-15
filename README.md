@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
+| [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
+| [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -50,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
+| [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
+## Sorting
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
