@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
