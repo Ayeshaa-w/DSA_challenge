@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
