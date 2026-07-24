@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0091-decode-ways) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0152-maximum-product-subarray) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0300-longest-increasing-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
