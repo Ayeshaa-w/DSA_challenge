@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0091-decode-ways](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0746-min-cost-climbing-stairs) |
