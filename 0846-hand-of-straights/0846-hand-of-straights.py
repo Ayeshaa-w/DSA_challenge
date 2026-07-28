@@ -1,23 +1,24 @@
 class Solution:
     def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
-        if len(hand)% groupSize!=0:
+        if len(hand)%groupSize!=0:
             return False
-        count={}
-        for i in hand:
-            count[i]=count.get(i,0)+1
-        minhp=list(count.keys())
-        heapq.heapify(minhp)
-        while minhp:
-            first=minhp[0]
-            for i in range(first,first+groupSize):
-                if i not in count:
-                    return False
-                count[i]-=1
-                if count[i]==0:
-                    if i!=minhp[0]:
-                        return False
-                    heapq.heappop(minhp)
+        n=len(hand)//groupSize #no of groups to be formed
+        hand=sorted(hand) #sort the ip
+        arr=[[] for _ in range(n)] #[[],[],[]]
+        for h in hand:
+            placed=False
+            for j in range(n):
+                if (len(arr[j])>0 and len(arr[j])<groupSize and arr[j][-1]+1==h):
+                    arr[j].append(h)
+                    placed=True
+                    break
+            if not placed:
+                for j in range(n):
+                    if len(arr[j])==0:
+                        arr[j].append(h)
+                        placed=True
+                        break
+            if not placed:
+                return False
         return True
-
-
         
