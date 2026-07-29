@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
