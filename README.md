@@ -128,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0410-split-array-largest-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
