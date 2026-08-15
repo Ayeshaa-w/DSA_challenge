@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
@@ -183,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
