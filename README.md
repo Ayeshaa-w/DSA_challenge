@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
