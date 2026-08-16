@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -189,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
