@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
