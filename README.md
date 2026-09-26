@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
+| [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1143-longest-common-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
