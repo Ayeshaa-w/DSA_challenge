@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0518-coin-change-ii) |
+| [0704-binary-search](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0994-rotting-oranges) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
