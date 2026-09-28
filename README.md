@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0053-maximum-subarray) |
