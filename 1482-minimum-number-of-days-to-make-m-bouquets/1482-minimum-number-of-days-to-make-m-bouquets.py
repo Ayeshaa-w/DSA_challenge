@@ -1,13 +1,9 @@
 class Solution:
     def minDays(self, bloomDay: list[int], m: int, k: int) -> int:
         def isvalid(mid,m,k,bloomDay):
-            boolean=[False]*len(bloomDay)
-            for i in range(len(bloomDay)):
-                if bloomDay[i]<=mid:
-                    boolean[i]=True
             flowers,bouq=0,0
-            for bloomed in boolean:
-                if bloomed:
+            for day in bloomDay:
+                if day<=mid:
                     flowers+=1
                     if flowers==k:
                         bouq+=1
