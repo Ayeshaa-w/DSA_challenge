@@ -1,5 +1,7 @@
 class Solution:
     def minDays(self, bloomDay: list[int], m: int, k: int) -> int:
+        if m*k>len(bloomDay):
+                return -1
         def isvalid(mid,m,k,bloomDay):
             flowers,bouq=0,0
             for day in bloomDay:
@@ -11,7 +13,7 @@ class Solution:
                 else:
                     flowers=0
             return bouq>=m
-        l,r=1,max(bloomDay)
+        l,r=min(bloomDay),max(bloomDay)
         res=-1
         while l<=r:
             mid=l+((r-l)//2)
