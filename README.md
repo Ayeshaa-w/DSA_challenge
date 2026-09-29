@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
