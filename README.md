@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0322-coin-change) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1710-maximum-units-on-a-truck) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0704-binary-search) |
@@ -236,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
