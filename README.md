@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0763-partition-labels) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0283-move-zeroes) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0846-hand-of-straights) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -245,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
