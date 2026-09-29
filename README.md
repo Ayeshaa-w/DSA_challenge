@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0200-number-of-islands) |
 ## Topological Sort
 |  |
