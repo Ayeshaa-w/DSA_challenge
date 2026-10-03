@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
