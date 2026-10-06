@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0207-course-schedule) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
@@ -324,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
