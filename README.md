@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0207-course-schedule) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0207-course-schedule) |
@@ -332,9 +334,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ayeshaa-w/DSA_challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
